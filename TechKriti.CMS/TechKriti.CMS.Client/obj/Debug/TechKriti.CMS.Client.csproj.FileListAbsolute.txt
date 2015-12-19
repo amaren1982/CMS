@@ -1,0 +1,400 @@
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\EntityFramework.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\EntityFramework.xml
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\bin\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.xml
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.csprojResolveAssemblyReference.cache
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CMS.Client.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\AjaxControlToolkit.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Custom.Controls.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DataContracts.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.ServiceImplementation.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Common.Client.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.DAL.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.BussinessLogic.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\TechKriti.Bussiness.Entities.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\bin\EntityFramework.xml
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.Client\obj\Debug\TechKriti.CMS.Client.pdb

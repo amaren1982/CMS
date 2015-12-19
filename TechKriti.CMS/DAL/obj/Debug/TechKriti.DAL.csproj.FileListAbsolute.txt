@@ -1,0 +1,96 @@
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\bin\Debug\DAL.dll.config
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\obj\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\DAL\obj\Debug\DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\bin\Debug\DAL.dll.config
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\bin\Debug\DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\bin\Debug\DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\obj\Debug\DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\DAL\obj\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS\DAL\bin\Debug\DAL.dll.config
+D:\HArdeep\TechKriti.CMS\DAL\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS\DAL\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS\DAL\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS\DAL\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS\DAL\obj\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS\DAL\obj\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\bin\Debug\DAL.dll.config
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\obj\Debug\TechKriti.DAL.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\obj\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\DAL\obj\Debug\DAL.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\bin\Debug\TechKriti.DAL.dll.config
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\bin\Debug\TechKriti.DAL.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\bin\Debug\TechKriti.DAL.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\bin\Debug\EntityFramework.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\bin\Debug\EntityFramework.xml
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\obj\Debug\TechKriti.DAL.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\DAL\obj\Debug\TechKriti.DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\TechKriti.DAL.dll.config
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\TechKriti.DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\TechKriti.DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\obj\Debug\TechKriti.DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\DAL\obj\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\TechKriti.DAL.dll.config
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\obj\Debug\TechKriti.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\obj\Debug\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\DAL\obj\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\bin\Debug\TechKriti.DAL.dll.config
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\bin\Debug\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\bin\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\obj\Debug\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\obj\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\DAL\obj\Debug\TechKriti.DAL.csprojResolveAssemblyReference.cache
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll.config
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.xml
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.csprojResolveAssemblyReference.cache
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll.config
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.xml
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll.config
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.xml
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll.config
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.xml
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll.config
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\TechKriti.DAL.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\bin\Debug\EntityFramework.xml
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.csprojResolveAssemblyReference.cache
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\DAL\obj\Debug\TechKriti.DAL.pdb

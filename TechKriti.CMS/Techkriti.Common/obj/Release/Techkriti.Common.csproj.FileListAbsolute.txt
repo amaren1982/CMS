@@ -1,0 +1,52 @@
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\DataContracts.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\DAL.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\DAL.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Release\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\DataContracts.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Release\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\obj\Release\Techkriti.Common.pdb

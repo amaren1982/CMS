@@ -1,0 +1,71 @@
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\DataContracts.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS\Techkriti.Common\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\ServiceImplementation.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\DataContracts.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\ServiceImplementation.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\DataContracts.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Techkriti.Common\obj\Debug\Techkriti.Common.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.Common.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.Common.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.DataContracts.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.ServiceImplementation.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.DAL.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.BussinessLogic.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.Bussiness.Entities.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\EntityFramework.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.DataContracts.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.ServiceImplementation.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.DAL.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.BussinessLogic.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\TechKriti.Bussiness.Entities.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\bin\Debug\EntityFramework.xml
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\obj\Debug\Techkriti.Common.csprojResolveAssemblyReference.cache
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\obj\Debug\TechKriti.Common.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Techkriti.Common\obj\Debug\TechKriti.Common.pdb

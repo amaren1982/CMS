@@ -1,0 +1,55 @@
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Common\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Common\obj\Debug\TechKriti.CommonDataInterfaces.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\Common\obj\Debug\Techkriti.CommonDataInterfaces.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.csprojResolveAssemblyReference.cache
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.csprojResolveAssemblyReference.cache
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\Common\obj\Debug\TechKriti.CommonDataInterfaces.pdb

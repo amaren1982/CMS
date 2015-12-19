@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TechKritiCMSModelStoreContainer" CdmEntityContainer="TechKritiCMSEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="MainCategoryId" ColumnName="MainCategoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CurrentOpenings">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.CurrentOpening">
+        <MappingFragment StoreEntitySet="CurrentOpenings">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Qualification" ColumnName="Qualification" />
+          <ScalarProperty Name="SkillSet" ColumnName="SkillSet" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="OpenTillDate" ColumnName="OpenTillDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DownloadAttachments">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.DownloadAttachment">
+        <MappingFragment StoreEntitySet="DownloadAttachments">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DownloadId" ColumnName="DownloadId" />
+          <ScalarProperty Name="DownloadPath" ColumnName="DownloadPath" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Downloads">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Download">
+        <MappingFragment StoreEntitySet="Downloads">
+          <ScalarProperty Name="DownloadPath" ColumnName="DownloadPath" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectionId" ColumnName="SectionId" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MainCategories">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.MainCategory">
+        <MappingFragment StoreEntitySet="MainCategory">
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Menus">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Menu">
+        <MappingFragment StoreEntitySet="Menus">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="MenuName" ColumnName="MenuName" />
+          <ScalarProperty Name="DisplayOrderId" ColumnName="DisplayOrderId" />
+          <ScalarProperty Name="ParentMenuId" ColumnName="ParentMenuId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="News">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.News">
+        <MappingFragment StoreEntitySet="News">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="NewsDescription" ColumnName="NewsDescription" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pages">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Page">
+        <MappingFragment StoreEntitySet="Pages">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="MenuId" ColumnName="MenuId" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="SeoTitle" ColumnName="SeoTitle" />
+          <ScalarProperty Name="MetaKeys" ColumnName="MetaKeys" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="H1" ColumnName="H1" />
+          <ScalarProperty Name="H2" ColumnName="H2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permissions">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Permission">
+        <MappingFragment StoreEntitySet="Permissions">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Action" ColumnName="Action" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PermissionsInRoles">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.PermissionsInRole">
+        <MappingFragment StoreEntitySet="PermissionsInRole">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="PermissionId" ColumnName="PermissionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhotoGalleries">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.PhotoGallery">
+        <MappingFragment StoreEntitySet="PhotoGallery">
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Path" ColumnName="Path" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectionId" ColumnName="SectionId" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhotoGalleryAttachments">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.PhotoGalleryAttachment">
+        <MappingFragment StoreEntitySet="PhotoGalleryAttachments">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="GalleryId" ColumnName="GalleryId" />
+          <ScalarProperty Name="DownloadPath" ColumnName="DownloadPath" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IsEditable" ColumnName="IsEditable" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SectionMasters">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.SectionMaster">
+        <MappingFragment StoreEntitySet="SectionMaster">
+          <ScalarProperty Name="SectionType" ColumnName="SectionType" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SectorAttachments">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.SectorAttachment">
+        <MappingFragment StoreEntitySet="SectorAttachments">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectorId" ColumnName="SectorId" />
+          <ScalarProperty Name="Caption" ColumnName="Caption" />
+          <ScalarProperty Name="DownloadPath" ColumnName="DownloadPath" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sectors">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Sector">
+        <MappingFragment StoreEntitySet="Sectors">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectorName" ColumnName="SectorName" />
+          <ScalarProperty Name="ParentSectorId" ColumnName="ParentSectorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SelectionCriterias">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.SelectionCriteria">
+        <MappingFragment StoreEntitySet="SelectionCriteria">
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="SubCategoryId" ColumnName="SubCategoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubCategories">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.SubCategory">
+        <MappingFragment StoreEntitySet="SubCategory">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TestimonialAttachments">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.TestimonialAttachment">
+        <MappingFragment StoreEntitySet="TestimonialAttachments">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TestimonialId" ColumnName="TestimonialId" />
+          <ScalarProperty Name="DownloadPath" ColumnName="DownloadPath" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Testimonials">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.Testimonial">
+        <MappingFragment StoreEntitySet="Testimonials">
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Path" ColumnName="Path" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectionId" ColumnName="SectionId" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="LastLogin" ColumnName="LastLogin" />
+          <ScalarProperty Name="FailtedAttempts" ColumnName="FailtedAttempts" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeMasters">
+      <EntityTypeMapping TypeName="TechKritiCMSModel.TypeMaster">
+        <MappingFragment StoreEntitySet="TypeMaster">
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

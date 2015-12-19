@@ -1,0 +1,163 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TechKriti.CMS.Administration.Shared.Site" %>
+<%@ Register Assembly="TechKriti.Custom.Controls" Namespace="TechKriti.Custom.Controls" TagPrefix="techKriti" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolKit" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <script type="text/javascript" >
+         function disablePasswordValidator() {
+            // alert(ContentPlaceHolder1_reqValtxtPassword);
+            // ValidatorEnable("ContentPlaceHolder1_reqValtxtPassword", false);
+             //document.getElementById("ContentPlaceHolder1_reqValtxtPassword").enabled = disable
+         }
+    </script> 
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder> 
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+    <div>
+        <table border="0" style="width:90%;">
+            <tr>
+                 <td style="width:50%;height:100px; border:dashed;">Company logo 1 </td>
+                 <td style="width:50%;height:100px; border:dashed;">Company logo 2 </td>
+            </tr>
+            <tr>
+                 <td style="width:50%; border:dashed;">Welcome: <asp:Label ID="lblUser" runat="server" ></asp:Label></td>
+                 <td style="width:50%; border:dashed;"><asp:LinkButton ID="btnSignOut" runat="server" OnClick="btnSignOut_Click" Text="SignOut" CausesValidation="false"></asp:LinkButton></td>
+            </tr>
+            <tr>
+                <td style="height:30px;"></td>
+            </tr>
+            <tr>               
+                <td colspan="2" style="vertical-align:top;">
+                    <table border="0" style="vertical-align:top;">
+                        <tr>
+                              <td style="width:15%; vertical-align:top;">
+                                  <table border="0" style="vertical-align:top;border:dashed;">
+                                       <tr>
+                                             <td>
+                                              <!-- Admin Links - Start -->
+                                              <h4>Administration</h4>
+                                               <ul style="list-style-type:none">
+                                                     <li>   
+                                                         <techKriti:HyperlinkControl ID="linkManageUsers" runat="server" Text="Users" RequiredActionPermission="ManageUsers" />                                                   
+                                                     </li>
+                                                     <li>
+                                                         <techKriti:HyperlinkControl ID="linkManageRoles" Text="Roles" runat="server" RequiredActionPermission="ManageRoles" />
+                                                     </li>
+                                                     <li>   
+                                                         <techKriti:HyperlinkControl ID="linkManageMenu" Text="Menu" runat="server" RequiredActionPermission="ManageMenus" />
+                                                     </li>
+                                                     <li> 
+                                                         <techKriti:HyperlinkControl ID="linkManagePages" Text="Pages" runat="server" RequiredActionPermission="ManagePages" />
+                                                     </li>
+                                              </ul> 
+                                               <h4>Master Data</h4>
+                                               <ul style="list-style-type:none">
+                                                   <li>
+                                                        <techKriti:HyperlinkControl ID="linkManageNews" runat="server" Text="News" RequiredActionPermission="ManageNews" />                                            
+                                                   </li>
+                                                   <li>
+                                                       <techKriti:HyperlinkControl ID="linkManageCurrentOpenings" Text="Current Openings" runat="server" RequiredActionPermission="ManageCurrentOpenings" />                                             
+                                                   </li>
+                                                   <li>
+                                                        <techKriti:HyperlinkControl ID="linkManageSectors" Text="Sectors" runat="server" RequiredActionPermission="ManageSectors" />                                             
+                                                   </li>
+                                                   <li>
+                                                        <techKriti:HyperlinkControl ID="linkManageTestimonials" Text="Testimonials" runat="server" RequiredActionPermission="ManageTestimonials" />                                               
+                                                   </li>
+                                                   <li>
+                                                        <techKriti:HyperlinkControl ID="linkManagePhotoGallery" Text="Photo Gallery" runat="server" RequiredActionPermission="ManagePhotoGallery" />                                              
+                                                   </li>
+                                                   <li>
+                                                        <techKriti:HyperlinkControl ID="linkManageDownloads" Text="Downloads" runat="server" RequiredActionPermission="ManageDownloads" />                                              
+                                                   </li>
+                                                   <li>
+                                                         <techKriti:HyperlinkControl ID="linkManageQualifications" Text="Qualifications" runat="server" RequiredActionPermission="ManageQualifications" />
+                                                   </li>
+                                               </ul>
+                                        </td>
+                                       </tr>
+                                     <%-- <tr>
+                                          <td>                                               
+                                               <techKriti:HyperlinkControl ID="linkManageUsers" runat="server" Text="Users" RequiredActionPermission="ManageUsers">
+                                               </techKriti:HyperlinkControl> 
+                                          </td>
+                                      </tr> --%> 
+                                      <%--<tr>
+                                          <td> 
+                                               <techKriti:HyperlinkControl ID="linkManageRoles" Text="Roles" runat="server" RequiredActionPermission="ManageRoles" />
+                                               
+                                          </td>
+                                      </tr>--%>                                    
+                                     <%-- <tr>
+                                          <td> 
+                                               <techKriti:HyperlinkControl ID="linkManageMenu" Text="Menu" runat="server" RequiredActionPermission="ManageMenus" />
+                                               
+                                          </td>
+                                      </tr> --%>
+                                     <%-- <tr>
+                                          <td> 
+                                               <techKriti:HyperlinkControl ID="linkManagePages" Text="Pages" runat="server" RequiredActionPermission="ManagePages" />
+                                               
+                                          </td>
+                                      </tr>   --%>
+                                      <!-- Admin Links - End -->                                        
+                                     <%--  <tr>
+                                          <td>                                              
+                                                                                                                                        
+                                          </td>
+                                      </tr>--%>
+                                    <%--  <tr>
+                                          <td>
+                                              
+                                          </td>
+                                      </tr>--%>
+                                     <%-- <tr>
+                                          <td>
+                                             
+                                          </td>
+                                      </tr>--%>
+                                     <%-- <tr>
+                                          <td>
+                                              
+                                          </td>
+                                      </tr>--%>
+                                     <%-- <tr>
+                                          <td> 
+                                              
+                                          </td>
+                                      </tr> 
+                                      <tr>
+                                          <td> 
+                                             
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td> 
+                                             
+                                               
+                                          </td>
+                                      </tr>  --%>
+                                                                                                                                  
+                                  </table>
+                              </td>
+                              <td style="width:85%">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+                                    </asp:ContentPlaceHolder>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+       
+    </div>
+    </form>
+</body>
+</html>

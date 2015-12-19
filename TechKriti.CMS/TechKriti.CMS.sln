@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceImplementation", "ServiceImplementation\ServiceImplementation.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechKriti.DAL", "DAL\TechKriti.DAL.csproj", "{E16AE70F-7218-4AAB-A05A-12409F44F924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness.Logic", "BussinessLogic\Bussiness.Logic.csproj", "{E42A4635-58F0-402A-9311-992E93622535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechKriti.CommonDataInterfaces", "Common\TechKriti.CommonDataInterfaces.csproj", "{2E0478E4-CF58-44CF-8D0A-288D5C8A577B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechKriti.Service.Host", "TechKriti.Service.Host\TechKriti.Service.Host.csproj", "{7FC3BF52-5D80-4FC8-87A3-D129A171E7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechKriti.CMS.Client", "TechKriti.CMS.Client\TechKriti.CMS.Client.csproj", "{0D6B5C25-D012-432B-AD6E-9B597829E7FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TechKriti.Service.Implementation", "TechKriti.Service.Implementation", "{B585D3E5-1F6C-4E4D-9B6F-38BA8AFAEBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContracts", "DataContracts\DataContracts.csproj", "{805AA859-90DC-4EFD-8F51-9CA4E00EE54D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TechKriti.Bussiness.Logic", "TechKriti.Bussiness.Logic", "{9452460A-9601-4EE2-945B-93F3A1B9B81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness.Entities", "Bussiness.Entities\Bussiness.Entities.csproj", "{60596474-EB4F-4D69-B012-C81BA345C7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechKriti.Custom.Controls", "CustomControls\TechKriti.Custom.Controls.csproj", "{853D8D89-5B86-4859-B44A-251E22711D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techkriti.Common.Client", "Techkriti.Common\Techkriti.Common.Client.csproj", "{770F1AC6-F3C8-493F-B151-F657C3A44D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16AE70F-7218-4AAB-A05A-12409F44F924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AE70F-7218-4AAB-A05A-12409F44F924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16AE70F-7218-4AAB-A05A-12409F44F924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16AE70F-7218-4AAB-A05A-12409F44F924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42A4635-58F0-402A-9311-992E93622535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42A4635-58F0-402A-9311-992E93622535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42A4635-58F0-402A-9311-992E93622535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42A4635-58F0-402A-9311-992E93622535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0478E4-CF58-44CF-8D0A-288D5C8A577B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0478E4-CF58-44CF-8D0A-288D5C8A577B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0478E4-CF58-44CF-8D0A-288D5C8A577B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0478E4-CF58-44CF-8D0A-288D5C8A577B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC3BF52-5D80-4FC8-87A3-D129A171E7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC3BF52-5D80-4FC8-87A3-D129A171E7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC3BF52-5D80-4FC8-87A3-D129A171E7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC3BF52-5D80-4FC8-87A3-D129A171E7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6B5C25-D012-432B-AD6E-9B597829E7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6B5C25-D012-432B-AD6E-9B597829E7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6B5C25-D012-432B-AD6E-9B597829E7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6B5C25-D012-432B-AD6E-9B597829E7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805AA859-90DC-4EFD-8F51-9CA4E00EE54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805AA859-90DC-4EFD-8F51-9CA4E00EE54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805AA859-90DC-4EFD-8F51-9CA4E00EE54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805AA859-90DC-4EFD-8F51-9CA4E00EE54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60596474-EB4F-4D69-B012-C81BA345C7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60596474-EB4F-4D69-B012-C81BA345C7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60596474-EB4F-4D69-B012-C81BA345C7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60596474-EB4F-4D69-B012-C81BA345C7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853D8D89-5B86-4859-B44A-251E22711D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853D8D89-5B86-4859-B44A-251E22711D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853D8D89-5B86-4859-B44A-251E22711D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853D8D89-5B86-4859-B44A-251E22711D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770F1AC6-F3C8-493F-B151-F657C3A44D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F1AC6-F3C8-493F-B151-F657C3A44D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F1AC6-F3C8-493F-B151-F657C3A44D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F1AC6-F3C8-493F-B151-F657C3A44D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318} = {B585D3E5-1F6C-4E4D-9B6F-38BA8AFAEBCD}
+		{805AA859-90DC-4EFD-8F51-9CA4E00EE54D} = {B585D3E5-1F6C-4E4D-9B6F-38BA8AFAEBCD}
+		{E42A4635-58F0-402A-9311-992E93622535} = {9452460A-9601-4EE2-945B-93F3A1B9B81B}
+		{60596474-EB4F-4D69-B012-C81BA345C7C3} = {9452460A-9601-4EE2-945B-93F3A1B9B81B}
+	EndGlobalSection
+EndGlobal

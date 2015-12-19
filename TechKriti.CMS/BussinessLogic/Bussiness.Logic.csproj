@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E42A4635-58F0-402A-9311-992E93622535}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BussinessLogic</RootNamespace>
+    <AssemblyName>TechKriti.BussinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContentManagement\SearchPagesRequestManager.cs" />
+    <Compile Include="ContentManagement\UpdatePageRequestManager.cs" />
+    <Compile Include="ContentManagement\GetPageByIdRequestManager.cs" />
+    <Compile Include="ContentManagement\DeletePageRequestManager.cs" />
+    <Compile Include="ContentManagement\CreatePageRequestManager.cs" />
+    <Compile Include="ContentManagement\CreateMenuRequestManager.cs" />
+    <Compile Include="ContentManagement\DeleteMenuRequestManager.cs" />
+    <Compile Include="ContentManagement\GetMenuByIdRequestManager.cs" />
+    <Compile Include="ContentManagement\SearchMenusRequestManager.cs" />
+    <Compile Include="ContentManagement\UpdateMenuRequestManager.cs" />
+    <Compile Include="CurrentOpeningsManagement\SearchCurrentOpeningsRequestManager.cs" />
+    <Compile Include="CurrentOpeningsManagement\GetCurrentOpeningByIdRequestManager.cs" />
+    <Compile Include="CurrentOpeningsManagement\UpdateCurrentOpeningRequestManager.cs" />
+    <Compile Include="CurrentOpeningsManagement\CreateCurrentOpeningRequestManager.cs" />
+    <Compile Include="CurrentOpeningsManagement\DeleteCurrentOpeningRequestManager.cs" />
+    <Compile Include="DownloadsManagement\CreateDownloadRequestManager.cs" />
+    <Compile Include="DownloadsManagement\DeleteDownloadRequestManager.cs" />
+    <Compile Include="DownloadsManagement\GetDownloadByIdRequestManager.cs" />
+    <Compile Include="DownloadsManagement\SearchDownloadsRequestManager.cs" />
+    <Compile Include="DownloadsManagement\UpdateDownloadRequestManager.cs" />
+    <Compile Include="NewsManagement\GetNewsByIdRequestManager.cs" />
+    <Compile Include="NewsManagement\SearchNewsRequestManager.cs" />
+    <Compile Include="NewsManagement\DeleteNewsRequestManager.cs" />
+    <Compile Include="NewsManagement\UpdateNewsRequestManager.cs" />
+    <Compile Include="NewsManagement\CreateNewsRequestManager.cs" />
+    <Compile Include="PhotoGalleryManagement\CreatePhotoGalleryRequestManager.cs" />
+    <Compile Include="PhotoGalleryManagement\DeletePhotoGalleryRequestManager.cs" />
+    <Compile Include="PhotoGalleryManagement\GetPhotoGalleryByIdRequestManager.cs" />
+    <Compile Include="PhotoGalleryManagement\SearchPhotoGalleriesRequestManager.cs" />
+    <Compile Include="PhotoGalleryManagement\UpdatePhotoGalleryRequestManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QualificationManagement\DeleteChildCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\UpdateChildCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\CreateChildCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\GetChildCategoriesRequestManager.cs" />
+    <Compile Include="QualificationManagement\DeleteSubCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\UpdateSubCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\CreateSubCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\DeleteCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\UpdateCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\CreateCategoryRequestManager.cs" />
+    <Compile Include="QualificationManagement\CreateQualificationRequestManager.cs" />
+    <Compile Include="QualificationManagement\DeleteQualificationRequestManager.cs" />
+    <Compile Include="QualificationManagement\GetQualificationByIdRequestManager.cs" />
+    <Compile Include="QualificationManagement\GetSubCategoriesRequestManager.cs" />
+    <Compile Include="QualificationManagement\GetCategoriesRequestManager.cs" />
+    <Compile Include="QualificationManagement\SearchQualificationsRequestManager.cs" />
+    <Compile Include="QualificationManagement\UpdateQualificationRequestManager.cs" />
+    <Compile Include="SectionManagement\CreateSectionRequestManager.cs" />
+    <Compile Include="SectionManagement\SearchSectionsRequestManager.cs" />
+    <Compile Include="SectorManagement\CreateSectorRequestManager.cs" />
+    <Compile Include="SectorManagement\DeleteSectorRequestManager.cs" />
+    <Compile Include="SectorManagement\GetSectorByIdRequestManager.cs" />
+    <Compile Include="SectorManagement\SearchSectorsRequestManager.cs" />
+    <Compile Include="SectorManagement\UpdateSectorRequestManager.cs" />
+    <Compile Include="TestimonialsManagement\CreateTestimonialRequestManager.cs" />
+    <Compile Include="TestimonialsManagement\DeleteTestimonialRequestManager.cs" />
+    <Compile Include="TestimonialsManagement\GetTestimonialByIdRequestManager.cs" />
+    <Compile Include="TestimonialsManagement\SearchTestimonialsRequestManager.cs" />
+    <Compile Include="TestimonialsManagement\UpdateTestimonialRequestManager.cs" />
+    <Compile Include="UserMangement\DeleteUserRequestManager.cs" />
+    <Compile Include="UserMangement\UpdateUserManagementRequestManager.cs" />
+    <Compile Include="UserMangement\GetUserByIdRequestManager.cs" />
+    <Compile Include="UserMangement\SearchUsersRequestManager.cs" />
+    <Compile Include="UserMangement\CreateUserRequestManager.cs" />
+    <Compile Include="UserMangement\DeleteRoleRequestManager.cs" />
+    <Compile Include="UserMangement\GetRoleByIdRequestManager.cs" />
+    <Compile Include="UserMangement\SearchRolesRequestManager.cs" />
+    <Compile Include="UserMangement\UpdateRoleManagementRequestManager.cs" />
+    <Compile Include="UserMangement\CreateRoleRequestManager.cs" />
+    <Compile Include="UserMangement\UserManagementRequestManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bussiness.Entities\Bussiness.Entities.csproj">
+      <Project>{60596474-eb4f-4d69-b012-c81ba345c7c3}</Project>
+      <Name>Bussiness.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\TechKriti.CommonDataInterfaces.csproj">
+      <Project>{2e0478e4-cf58-44cf-8d0a-288d5c8a577b}</Project>
+      <Name>TechKriti.CommonDataInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\TechKriti.DAL.csproj">
+      <Project>{e16ae70f-7218-4aab-a05a-12409f44f924}</Project>
+      <Name>TechKriti.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

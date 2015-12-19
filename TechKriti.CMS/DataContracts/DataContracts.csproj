@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{805AA859-90DC-4EFD-8F51-9CA4E00EE54D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataContracts</RootNamespace>
+    <AssemblyName>TechKriti.DataContracts</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttachmentsManagement\AttachmentDataContract.cs" />
+    <Compile Include="ContentManagement\SearchPageResponse.cs" />
+    <Compile Include="ContentManagement\SearchPageRequest.cs" />
+    <Compile Include="ContentManagement\UpdatePageRequest.cs" />
+    <Compile Include="ContentManagement\GetPageByIdResponse.cs" />
+    <Compile Include="ContentManagement\GetPageByIdRequest.cs" />
+    <Compile Include="ContentManagement\DeletePageRequest.cs" />
+    <Compile Include="ContentManagement\CreatePageRequest.cs" />
+    <Compile Include="ContentManagement\PageSearchFilterDataContract.cs" />
+    <Compile Include="ContentManagement\PageDataContract.cs" />
+    <Compile Include="ContentManagement\CreateMenuRequest.cs" />
+    <Compile Include="ContentManagement\DeleteMenuRequest.cs" />
+    <Compile Include="ContentManagement\DeleteMenuResponse.cs" />
+    <Compile Include="ContentManagement\GetMenuByIdRequest.cs" />
+    <Compile Include="ContentManagement\GetMenuByIdResponse.cs" />
+    <Compile Include="ContentManagement\MenuDataContract.cs" />
+    <Compile Include="ContentManagement\MenuSearchFilterDataContract.cs" />
+    <Compile Include="ContentManagement\SearchMenuRequest.cs" />
+    <Compile Include="ContentManagement\SearchMenuResponse.cs" />
+    <Compile Include="ContentManagement\UpdateMenuRequest.cs" />
+    <Compile Include="CurrentOpeningsManagement\CreateCurrentOpeningRequest.cs" />
+    <Compile Include="CurrentOpeningsManagement\CurrentOpeningDataContract.cs" />
+    <Compile Include="CurrentOpeningsManagement\DeleteCurrentOpeningRequest.cs" />
+    <Compile Include="CurrentOpeningsManagement\GetCurrentOpeningByIdRequest.cs" />
+    <Compile Include="CurrentOpeningsManagement\GetCurrentOpeningByIdResponse.cs" />
+    <Compile Include="CurrentOpeningsManagement\CurrentOpeningSearchFilterDataContract.cs" />
+    <Compile Include="CurrentOpeningsManagement\SearchCurrentOpeningRequest.cs" />
+    <Compile Include="CurrentOpeningsManagement\SearchCurrentOpeningResponse.cs" />
+    <Compile Include="CurrentOpeningsManagement\UpdateCurrentOpeningRequest.cs" />
+    <Compile Include="DownloadsManagement\CreateDownloadRequest.cs" />
+    <Compile Include="DownloadsManagement\DeleteDownloadRequest.cs" />
+    <Compile Include="DownloadsManagement\DownloadsDataContract.cs" />
+    <Compile Include="DownloadsManagement\DownloadsSearchFilterDataContract.cs" />
+    <Compile Include="DownloadsManagement\GetDownloadByIdRequest.cs" />
+    <Compile Include="DownloadsManagement\GetDownloadByIdResponse.cs" />
+    <Compile Include="DownloadsManagement\SearchDownloadsRequest.cs" />
+    <Compile Include="DownloadsManagement\SearchDownloadsResponse.cs" />
+    <Compile Include="DownloadsManagement\UpdateDownloadRequest.cs" />
+    <Compile Include="EmptyResponse.cs" />
+    <Compile Include="NewsManagement\CreateNewsRequest.cs" />
+    <Compile Include="NewsManagement\DeleteNewsRequest.cs" />
+    <Compile Include="NewsManagement\GetNewsByIdRequest.cs" />
+    <Compile Include="NewsManagement\GetNewsByIdResponse.cs" />
+    <Compile Include="NewsManagement\NewsDataContract.cs" />
+    <Compile Include="NewsManagement\NewsSearchFilterDataContract.cs" />
+    <Compile Include="NewsManagement\SearchNewsRequest.cs" />
+    <Compile Include="NewsManagement\SearchNewsResponse.cs" />
+    <Compile Include="NewsManagement\UpdateNewsRequest.cs" />
+    <Compile Include="PagedFilter.cs" />
+    <Compile Include="PhotoGalleryManagement\CreatePhotoGalleryRequest.cs" />
+    <Compile Include="PhotoGalleryManagement\DeletePhotoGalleryRequest.cs" />
+    <Compile Include="PhotoGalleryManagement\GetPhotoGalleryByIdRequest.cs" />
+    <Compile Include="PhotoGalleryManagement\GetPhotoGalleryByIdResponse.cs" />
+    <Compile Include="PhotoGalleryManagement\PhotoGalleryDataContract.cs" />
+    <Compile Include="PhotoGalleryManagement\PhotoGallerySearchFilterDataContract.cs" />
+    <Compile Include="PhotoGalleryManagement\SearchPhotoGalleryRequest.cs" />
+    <Compile Include="PhotoGalleryManagement\SearchPhotoGalleryResponse.cs" />
+    <Compile Include="PhotoGalleryManagement\UpdatePhotoGalleryRequest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QualificationManagement\CategoryDataContract.cs" />
+    <Compile Include="QualificationManagement\CategorySearchDataContract.cs" />
+    <Compile Include="QualificationManagement\GetChildCategoriesResponse.cs" />
+    <Compile Include="QualificationManagement\GetChildCategoriesRequest.cs" />
+    <Compile Include="QualificationManagement\DeleteCategoryResponse.cs" />
+    <Compile Include="QualificationManagement\DeleteCategoryRequest.cs" />
+    <Compile Include="QualificationManagement\UpdateCategoryRequest.cs" />
+    <Compile Include="QualificationManagement\CreateCategoryRequest.cs" />
+    <Compile Include="QualificationManagement\GetSubCategoriesRequest.cs" />
+    <Compile Include="QualificationManagement\GetSubCategoriesResponse.cs" />
+    <Compile Include="QualificationManagement\CreateQualificationRequest.cs" />
+    <Compile Include="QualificationManagement\DeleteQualificationRequest.cs" />
+    <Compile Include="QualificationManagement\GetCategoriesRequest.cs" />
+    <Compile Include="QualificationManagement\GetCategoriesResponse.cs" />
+    <Compile Include="QualificationManagement\GetQualificationByIdRequest.cs" />
+    <Compile Include="QualificationManagement\GetQualificationByIdResponse.cs" />
+    <Compile Include="QualificationManagement\QualificationDataContract.cs" />
+    <Compile Include="QualificationManagement\QualificationSearchDataContract.cs" />
+    <Compile Include="QualificationManagement\SearchQualificationsRequest.cs" />
+    <Compile Include="QualificationManagement\SearchQualificationsResponse.cs" />
+    <Compile Include="QualificationManagement\UpdateQualificationRequest.cs" />
+    <Compile Include="SectionManagement\CreateSectionRequest.cs" />
+    <Compile Include="SectionManagement\SectionDataContract.cs" />
+    <Compile Include="SectionManagement\GetSectionsRequest.cs" />
+    <Compile Include="SectionManagement\GetSectionsResponse.cs" />
+    <Compile Include="SectionManagement\SectionSearchFilterDataContract.cs" />
+    <Compile Include="SectorManagement\DeleteSectorResponse.cs" />
+    <Compile Include="SectorManagement\GetSectorByIdRequest.cs" />
+    <Compile Include="SectorManagement\GetSectorByIdResponse.cs" />
+    <Compile Include="SectorManagement\SectorSearchFilterDataContract.cs" />
+    <Compile Include="SectorManagement\SearchSectorsResponse.cs" />
+    <Compile Include="SectorManagement\CreateSectorRequest.cs" />
+    <Compile Include="SectorManagement\DeleteSectorRequest.cs" />
+    <Compile Include="SectorManagement\SearchSectorsRequest.cs" />
+    <Compile Include="SectorManagement\SectorDataContract.cs" />
+    <Compile Include="SectorManagement\UpdateSectorRequest.cs" />
+    <Compile Include="TotalNumberOfRecords.cs" />
+    <Compile Include="TestimonialsManagement\CreateTestimonialRequest.cs" />
+    <Compile Include="TestimonialsManagement\DeleteTestimonialRequest.cs" />
+    <Compile Include="TestimonialsManagement\GetTestimonialByIdRequest.cs" />
+    <Compile Include="TestimonialsManagement\GetTestimonialByIdResponse.cs" />
+    <Compile Include="TestimonialsManagement\SearchTestimonialsRequest.cs" />
+    <Compile Include="TestimonialsManagement\SearchTestimonialsResponse.cs" />
+    <Compile Include="TestimonialsManagement\TestimonialSearchFilterDataContract.cs" />
+    <Compile Include="TestimonialsManagement\TestimonialDataContract.cs" />
+    <Compile Include="TestimonialsManagement\UpdateTestimonialRequest.cs" />
+    <Compile Include="UserManagement\AuthenticateUserRequest.cs" />
+    <Compile Include="UserManagement\AuthenticateUserResponse.cs" />
+    <Compile Include="UserManagement\UpdateUserResponse.cs" />
+    <Compile Include="UserManagement\CreateUserResponse.cs" />
+    <Compile Include="UserManagement\DeleteRoleResponse.cs" />
+    <Compile Include="UserManagement\SearchUsersResponse.cs" />
+    <Compile Include="UserManagement\SearchUsersRequest.cs" />
+    <Compile Include="UserManagement\UsersSearchFilterDataContract.cs" />
+    <Compile Include="UserManagement\GetUserByIdRequest.cs" />
+    <Compile Include="UserManagement\GetUserByIdResponse.cs" />
+    <Compile Include="UserManagement\DeleteUserRequest.cs" />
+    <Compile Include="UserManagement\UpdateUserRequest.cs" />
+    <Compile Include="UserManagement\CreateUserRequest.cs" />
+    <Compile Include="UserManagement\DeleteRoleRequest.cs" />
+    <Compile Include="UserManagement\GetRoleByIdRequest.cs" />
+    <Compile Include="UserManagement\GetRoleByIdResponse.cs" />
+    <Compile Include="UserManagement\SearchRolesRequest.cs" />
+    <Compile Include="UserManagement\SearchRolesResponse.cs" />
+    <Compile Include="UserManagement\RolesSearchFilterDataContract.cs" />
+    <Compile Include="UserManagement\UpdateRoleRequest.cs" />
+    <Compile Include="UserManagement\CreateRoleRequest.cs" />
+    <Compile Include="UserManagement\RoleDataContract.cs" />
+    <Compile Include="UserManagement\UserTypeDataContract.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\TechKriti.CommonDataInterfaces.csproj">
+      <Project>{2e0478e4-cf58-44cf-8d0a-288d5c8a577b}</Project>
+      <Name>TechKriti.CommonDataInterfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

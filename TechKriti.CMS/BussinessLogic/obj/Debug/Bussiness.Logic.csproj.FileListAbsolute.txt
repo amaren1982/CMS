@@ -1,0 +1,195 @@
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase 2\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\Techkriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.Deployed\TechKriti.CMS\BussinessLogic\obj\Debug\BussinessLogic.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\EntityFramework.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\bin\Debug\EntityFramework.xml
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+E:\DotNetWork\TechKriti.CMS.Phase2.FinalFixes\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+D:\HArdeep\TechKriti.CMS.Phase2.FullAndFinal\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.FullAndFinal\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+C:\Users\Hardeep Singh\Desktop\TechKriti.CMS.Phase2.Change.Request.2\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+D:\jj\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+D:\jj\New folder\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.xml
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+E:\DotNetWork\Tech\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+D:\JJ\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.BussinessLogic.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.Bussiness.Entities.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.CommonDataInterfaces.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\TechKriti.DAL.pdb
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\Bussiness.Logic.csprojResolveAssemblyReference.cache
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.dll
+D:\JJ\Backup\TechKriti.CMS.FULL.AND.FINAL.LATEST\TechKriti.CMS.FULL.AND.FINAL.LATEST\BussinessLogic\obj\Debug\TechKriti.BussinessLogic.pdb

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2E0478E4-CF58-44CF-8D0A-288D5C8A577B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Techkriti.Common.DataInterfaces</RootNamespace>
+    <AssemblyName>TechKriti.CommonDataInterfaces</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttachmentsManagement\IAttachment.cs" />
+    <Compile Include="ContentManagement\IPageSearchFilter.cs" />
+    <Compile Include="ContentManagement\IMenu.cs" />
+    <Compile Include="ContentManagement\IMenuSearchFilter.cs" />
+    <Compile Include="ContentManagement\IPage.cs" />
+    <Compile Include="ContentManagement\PageStatus.cs" />
+    <Compile Include="CurrentOpeningsManagement\ICurrentOpening.cs" />
+    <Compile Include="CurrentOpeningsManagement\ICurrentOpeningSearchFilter.cs" />
+    <Compile Include="DownloadsManagement\IDownload.cs" />
+    <Compile Include="DownloadsManagement\IDownloadsSearchFilter.cs" />
+    <Compile Include="IPagedFilter.cs" />
+    <Compile Include="LogicalErrorCode.cs" />
+    <Compile Include="NewsManagement\INews.cs" />
+    <Compile Include="NewsManagement\INewsSearchFilter.cs" />
+    <Compile Include="PhotoGalleryManagement\IPhotoGallery.cs" />
+    <Compile Include="PhotoGalleryManagement\IPhotoGallerySearchFilter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QualificationManagement\ICategory.cs" />
+    <Compile Include="QualificationManagement\ICategorySearchFilter.cs" />
+    <Compile Include="QualificationManagement\IQualification.cs" />
+    <Compile Include="QualificationManagement\IQualificationSearchFilter.cs" />
+    <Compile Include="SectionManagement\ISection.cs" />
+    <Compile Include="SectionManagement\ISectionSearchFilter.cs" />
+    <Compile Include="SectorsManagement\ISector.cs" />
+    <Compile Include="SectorsManagement\ISectorsSearchFilter.cs" />
+    <Compile Include="SectorsManagement\SectionType.cs" />
+    <Compile Include="TestimonialsManagement\ITestimonialSearchFilter.cs" />
+    <Compile Include="TestimonialsManagement\ITestimonial.cs" />
+    <Compile Include="UserManagement\IUsersSearchFilter.cs" />
+    <Compile Include="UserManagement\UserType.cs" />
+    <Compile Include="UserManagement\IUser.cs" />
+    <Compile Include="UserManagement\IRole.cs" />
+    <Compile Include="UserManagement\IRolesSearchFilter.cs" />
+    <Compile Include="UserManagement\Permissions.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_Version1\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\bin\Debug\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\bin\Debug\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\obj\Debug\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\obj\Debug\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\bin\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\bin\Debug\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\obj\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS_latest after first deployment\TechKriti.CMS_latest after first deployment\TechKriti.CMS\Common\obj\Debug\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\Common\bin\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\Common\bin\Debug\Common.pdb
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\Common\obj\Debug\Common.dll
+C:\Users\hardeeps\Desktop\Final\TechKriti.CMS. to be deployed\TechKriti.CMS\Common\obj\Debug\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Common.pdb
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Common.dll
+C:\Users\Hardeep Singh\Documents\Visual Studio 2012\Projects\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\bin\Debug\Common.pdb
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Common.dll
+D:\HArdeep\TechKriti.CMS.Phase 2\TechKriti.CMS\TechKriti.CMS\Common\obj\Debug\Common.pdb

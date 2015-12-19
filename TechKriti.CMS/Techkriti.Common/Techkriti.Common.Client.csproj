@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{770F1AC6-F3C8-493F-B151-F657C3A44D85}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Techkriti.Common</RootNamespace>
+    <AssemblyName>TechKriti.Common.Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Authorization\IAuthorizeAction.cs" />
+    <Compile Include="Authorization\TechKritiAuthorizationHelper.cs" />
+    <Compile Include="Authorization\TechKritiPrincipal.cs" />
+    <Compile Include="Controllers\Admin\RolesController.cs" />
+    <Compile Include="Controllers\Admin\UsersController.cs" />
+    <Compile Include="Controllers\Attachments\BaseAttachmentsController.cs" />
+    <Compile Include="Controllers\Attachments\SectorsAttachmentsController.cs" />
+    <Compile Include="Controllers\Attachments\DownloadsAttachmentsController.cs" />
+    <Compile Include="Controllers\Attachments\PhotoGalleryAttachmentsController.cs" />
+    <Compile Include="Controllers\Attachments\TestimonialsAttachmentsController.cs" />
+    <Compile Include="Controllers\CMS\MenuController.cs" />
+    <Compile Include="Controllers\CMS\PageController.cs" />
+    <Compile Include="Controllers\CurrentOpenings\CurrentOpeningController.cs" />
+    <Compile Include="Controllers\Download\DownloadsController.cs" />
+    <Compile Include="Controllers\News\NewsController.cs" />
+    <Compile Include="Controllers\PhotoGallery\PhotoGalleryController.cs" />
+    <Compile Include="Controllers\Qualification\QualificationsController.cs" />
+    <Compile Include="Controllers\Sectors\SectorsController.cs" />
+    <Compile Include="Controllers\Testimonials\TestimonialsController.cs" />
+    <Compile Include="Encryption\ComputeMD5.cs" />
+    <Compile Include="Extensions\ListExtensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy\ProxyFactory.cs" />
+    <Compile Include="Proxy\ServiceProxy.cs" />
+    <Compile Include="Shared\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utilities\Helper.cs" />
+    <Compile Include="Utilities\Pages.cs" />
+    <Compile Include="Utilities\RandomImage.cs" />
+    <Compile Include="Wrappers\SessionKeys.cs" />
+    <Compile Include="Wrappers\SessionWrapper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\TechKriti.CommonDataInterfaces.csproj">
+      <Project>{2e0478e4-cf58-44cf-8d0a-288d5c8a577b}</Project>
+      <Name>TechKriti.CommonDataInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataContracts\DataContracts.csproj">
+      <Project>{805aa859-90dc-4efd-8f51-9ca4e00ee54d}</Project>
+      <Name>DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceImplementation\ServiceImplementation.csproj">
+      <Project>{15b3e0d2-6217-493a-a690-158c497f5318}</Project>
+      <Name>ServiceImplementation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

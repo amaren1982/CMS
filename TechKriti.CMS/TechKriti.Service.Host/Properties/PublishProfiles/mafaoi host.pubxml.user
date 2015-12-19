@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6KOvvjtYZkyISzT6igkJ8gAAAAACAAAAAAAQZgAAAAEAACAAAACyJIhKgf9wJj3GZecEMYJVuDSGfvD2MKddF/qoRDNluAAAAAAOgAAAAAIAACAAAAC96NvwG5jlYevmzbijyp5qz7mQ3P8c7uXPexT0M10uVyAAAAAtf3w5uvVGHPWSyL/NN/1XQKoH/PChrKV311T5NXvpykAAAACOvHDl6LBMhQZ/WOYZ0lvC5R3BJiSePiGkKBEossuslCGN2dVE9ENQjw0B7vW0Wjc7GHcPa1gW9yQ55REvqccu</EncryptedPassword>
+    <_PublishTargetUrl>ftp://182.50.130.66/API</_PublishTargetUrl>
+    <LastUsedBuildConfiguration />
+    <LastUsedPlatform />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Bussiness.Entities.dll">
+      <publishTime>12/23/2014 15:15:37</publishTime>
+    </File>
+    <File Include="bin/BussinessLogic.dll">
+      <publishTime>12/23/2014 15:15:38</publishTime>
+    </File>
+    <File Include="bin/Common.dll">
+      <publishTime>12/23/2014 15:15:37</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>12/23/2014 15:15:37</publishTime>
+    </File>
+    <File Include="bin/DataContracts.dll">
+      <publishTime>12/23/2014 15:15:37</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/14/2014 15:52:40</publishTime>
+    </File>
+    <File Include="bin/ServiceImplementation.dll">
+      <publishTime>12/23/2014 15:15:38</publishTime>
+    </File>
+    <File Include="bin/TechKriti.Bussiness.Entities.dll">
+      <publishTime>02/27/2015 10:42:56</publishTime>
+    </File>
+    <File Include="bin/TechKriti.BussinessLogic.dll">
+      <publishTime>02/27/2015 10:42:56</publishTime>
+    </File>
+    <File Include="bin/TechKriti.CommonDataInterfaces.dll">
+      <publishTime>02/27/2015 10:42:55</publishTime>
+    </File>
+    <File Include="bin/TechKriti.DAL.dll">
+      <publishTime>02/27/2015 10:42:55</publishTime>
+    </File>
+    <File Include="bin/TechKriti.DataContracts.dll">
+      <publishTime>02/27/2015 10:42:56</publishTime>
+    </File>
+    <File Include="bin/TechKriti.Service.Host.dll">
+      <publishTime>02/27/2015 10:42:58</publishTime>
+    </File>
+    <File Include="bin/TechKriti.ServiceImplementation.dll">
+      <publishTime>02/27/2015 10:42:57</publishTime>
+    </File>
+    <File Include="ContentManagementService.svc">
+      <publishTime>02/18/2015 22:25:08</publishTime>
+    </File>
+    <File Include="CurrentOpeningsManagementService.svc">
+      <publishTime>12/19/2014 14:06:58</publishTime>
+    </File>
+    <File Include="DownloadsManagementService.svc">
+      <publishTime>12/23/2014 13:58:46</publishTime>
+    </File>
+    <File Include="NewsManagementService.svc">
+      <publishTime>12/19/2014 16:38:10</publishTime>
+    </File>
+    <File Include="PhotoGalleryManagementService.svc">
+      <publishTime>12/22/2014 16:37:24</publishTime>
+    </File>
+    <File Include="QualificationsManagementService.svc">
+      <publishTime>12/24/2014 12:19:10</publishTime>
+    </File>
+    <File Include="SectorsManagementService.svc">
+      <publishTime>12/21/2014 16:47:50</publishTime>
+    </File>
+    <File Include="TestimonialsManagementService.svc">
+      <publishTime>12/22/2014 14:15:12</publishTime>
+    </File>
+    <File Include="UserManagementService.svc">
+      <publishTime>12/15/2014 20:30:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/27/2015 10:44:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

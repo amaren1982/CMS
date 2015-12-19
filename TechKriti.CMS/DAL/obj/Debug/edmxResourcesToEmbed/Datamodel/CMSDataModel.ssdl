@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TechKritiCMSModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TechKritiCMSModelStoreContainer">
+    <EntitySet Name="News" EntityType="TechKritiCMSModel.Store.News" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="TechKritiCMSModel.Store.Users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="News">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="NewsDescription" Type="nvarchar(max)" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Username" Type="nchar" Nullable="false" MaxLength="255" />
+    <Property Name="Password" Type="nchar" Nullable="false" MaxLength="255" />
+    <Property Name="LastLogin" Type="datetime" Nullable="false" />
+    <Property Name="FailtedAttempts" Type="smallint" />
+  </EntityType>
+</Schema>

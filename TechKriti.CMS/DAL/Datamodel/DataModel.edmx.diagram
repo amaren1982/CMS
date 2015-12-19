@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b2347771eb22439b85cbb632a7fd78cb" Name="Diagram1">
+        <EntityTypeShape EntityType="TechKritiCMSModel.Category" Width="1.5" PointX="10" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.CurrentOpening" Width="1.5" PointX="9.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.DownloadAttachment" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Download" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.MainCategory" Width="1.5" PointX="7.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Menu" Width="1.5" PointX="7.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.News" Width="1.5" PointX="11.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Page" Width="1.5" PointX="10" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Permission" Width="1.5" PointX="5.5" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.PermissionsInRole" Width="1.5" PointX="7.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.PhotoGallery" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.PhotoGalleryAttachment" Width="1.5" PointX="5.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Role" Width="1.5" PointX="5.5" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.SectionMaster" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.SectorAttachment" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Sector" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.SelectionCriteria" Width="1.5" PointX="14.5" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.SubCategory" Width="1.5" PointX="12.25" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.TestimonialAttachment" Width="1.5" PointX="5.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.Testimonial" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.User" Width="1.5" PointX="7.75" PointY="15.625" IsExpanded="true" />
+        <AssociationConnector Association="TechKritiCMSModel.FK__Category__MainCa__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK__SubCatego__Categ__282DF8C2" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK_DownloadsAttachments" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK__Downloads__Secti__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.MenuId_ForeignKeyMenus" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.ParentMenuId_ForeignKey" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.UserId_ForeignKeyUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.PermissionId_ForeignKey" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.RoleId_ForeignKey_PermissionsInRole" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK__PhotoGall__Secti__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK_PhotoGalleryAttachments" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.RoleId_ForeignKey" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK__Testimoni__Secti__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK_SectorAttachments" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.ParentSectorId_ForeignKey" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK__Selection__SubCa__30C33EC3" ManuallyRouted="false" />
+        <AssociationConnector Association="TechKritiCMSModel.FK_TestimonialsAttachments" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="TechKritiCMSModel.TypeMaster" Width="1.5" PointX="11.808806374580044" PointY="5.0061592781013617" />
+        <AssociationConnector Association="TechKritiCMSModel.fk_SectionMaster" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

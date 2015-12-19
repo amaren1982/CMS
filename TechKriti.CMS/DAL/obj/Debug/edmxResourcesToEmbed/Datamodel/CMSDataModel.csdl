@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TechKritiCMSModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TechKritiCMSEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="TechKritiCMSModel.User" />
+    <EntitySet Name="News" EntityType="TechKritiCMSModel.News" />
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="true" />
+    <Property Name="LastLogin" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="FailtedAttempts" Type="Int16" />
+  </EntityType>
+  <EntityType Name="News">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="Date" Precision="3" />
+    <Property Type="String" Name="NewsDescription" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="DateTime" Name="ModifiedDate" Precision="3" />
+  </EntityType>
+</Schema>

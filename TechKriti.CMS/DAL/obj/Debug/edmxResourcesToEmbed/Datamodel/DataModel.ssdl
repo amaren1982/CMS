@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TechKritiCMSModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TechKritiCMSModelStoreContainer">
+    <EntitySet Name="Category" EntityType="TechKritiCMSModel.Store.Category" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CurrentOpenings" EntityType="TechKritiCMSModel.Store.CurrentOpenings" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DownloadAttachments" EntityType="TechKritiCMSModel.Store.DownloadAttachments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Downloads" EntityType="TechKritiCMSModel.Store.Downloads" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MainCategory" EntityType="TechKritiCMSModel.Store.MainCategory" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Menus" EntityType="TechKritiCMSModel.Store.Menus" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="News" EntityType="TechKritiCMSModel.Store.News" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Pages" EntityType="TechKritiCMSModel.Store.Pages" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Permissions" EntityType="TechKritiCMSModel.Store.Permissions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PermissionsInRole" EntityType="TechKritiCMSModel.Store.PermissionsInRole" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PhotoGallery" EntityType="TechKritiCMSModel.Store.PhotoGallery" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PhotoGalleryAttachments" EntityType="TechKritiCMSModel.Store.PhotoGalleryAttachments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Roles" EntityType="TechKritiCMSModel.Store.Roles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SectionMaster" EntityType="TechKritiCMSModel.Store.SectionMaster" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SectorAttachments" EntityType="TechKritiCMSModel.Store.SectorAttachments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Sectors" EntityType="TechKritiCMSModel.Store.Sectors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SelectionCriteria" EntityType="TechKritiCMSModel.Store.SelectionCriteria" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SubCategory" EntityType="TechKritiCMSModel.Store.SubCategory" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TestimonialAttachments" EntityType="TechKritiCMSModel.Store.TestimonialAttachments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Testimonials" EntityType="TechKritiCMSModel.Store.Testimonials" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TypeMaster" EntityType="TechKritiCMSModel.Store.TypeMaster" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="TechKritiCMSModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Selection__SubCa__6EF57B66" Association="TechKritiCMSModel.Store.FK__Selection__SubCa__6EF57B66">
+      <End Role="SubCategory" EntitySet="SubCategory" />
+      <End Role="SelectionCriteria" EntitySet="SelectionCriteria" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SubCatego__Categ__6E01572D" Association="TechKritiCMSModel.Store.FK__SubCatego__Categ__6E01572D">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="SubCategory" EntitySet="SubCategory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Downloads_SectionMaster" Association="TechKritiCMSModel.Store.FK_Downloads_SectionMaster">
+      <End Role="SectionMaster" EntitySet="SectionMaster" />
+      <End Role="Downloads" EntitySet="Downloads" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhotoGallery_SectionMaster" Association="TechKritiCMSModel.Store.FK_PhotoGallery_SectionMaster">
+      <End Role="SectionMaster" EntitySet="SectionMaster" />
+      <End Role="PhotoGallery" EntitySet="PhotoGallery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Testimonials_SectionMaster" Association="TechKritiCMSModel.Store.FK_Testimonials_SectionMaster">
+      <End Role="SectionMaster" EntitySet="SectionMaster" />
+      <End Role="Testimonials" EntitySet="Testimonials" />
+    </AssociationSet>
+    <AssociationSet Name="MenuId_ForeignKeyMenus" Association="TechKritiCMSModel.Store.MenuId_ForeignKeyMenus">
+      <End Role="Menus" EntitySet="Menus" />
+      <End Role="Pages" EntitySet="Pages" />
+    </AssociationSet>
+    <AssociationSet Name="ParentMenuId_ForeignKey" Association="TechKritiCMSModel.Store.ParentMenuId_ForeignKey">
+      <End Role="Menus" EntitySet="Menus" />
+      <End Role="Menus1" EntitySet="Menus" />
+    </AssociationSet>
+    <AssociationSet Name="PermissionId_ForeignKey" Association="TechKritiCMSModel.Store.PermissionId_ForeignKey">
+      <End Role="Permissions" EntitySet="Permissions" />
+      <End Role="PermissionsInRole" EntitySet="PermissionsInRole" />
+    </AssociationSet>
+    <AssociationSet Name="RoleId_ForeignKey" Association="TechKritiCMSModel.Store.RoleId_ForeignKey">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="RoleId_ForeignKey_PermissionsInRole" Association="TechKritiCMSModel.Store.RoleId_ForeignKey_PermissionsInRole">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="PermissionsInRole" EntitySet="PermissionsInRole" />
+    </AssociationSet>
+    <AssociationSet Name="UserId_ForeignKeyUsers" Association="TechKritiCMSModel.Store.UserId_ForeignKeyUsers">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Pages" EntitySet="Pages" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Code" Type="nvarchar" MaxLength="500" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="MainCategoryId" Type="int" />
+  </EntityType>
+  <EntityType Name="CurrentOpenings">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Company" Type="nvarchar" />
+    <Property Name="Position" Type="nvarchar" />
+    <Property Name="Qualification" Type="nvarchar(max)" />
+    <Property Name="SkillSet" Type="nvarchar(max)" />
+    <Property Name="Email" Type="nvarchar" MaxLength="1000" />
+    <Property Name="OpenTillDate" Type="datetime" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DownloadAttachments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DownloadId" Type="int" Nullable="false" />
+    <Property Name="DownloadPath" Type="nvarchar" MaxLength="200" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Downloads">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SectionId" Type="int" />
+    <Property Name="DisplayName" Type="nvarchar" />
+    <Property Name="DownloadPath" Type="nvarchar" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="MainCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Menus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MenuName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="DisplayOrderId" Type="int" Nullable="false" />
+    <Property Name="ParentMenuId" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="News">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="NewsDescription" Type="nvarchar(max)" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Pages">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="MenuId" Type="int" Nullable="false" />
+    <Property Name="Content" Type="text" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" Nullable="false" />
+    <Property Name="Status" Type="smallint" Nullable="false" />
+    <Property Name="SeoTitle" Type="nvarchar" MaxLength="1000" />
+    <Property Name="MetaKeys" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Description" Type="nvarchar" MaxLength="1000" />
+    <Property Name="H1" Type="nvarchar" MaxLength="1000" />
+    <Property Name="H2" Type="nvarchar" MaxLength="1000" />
+  </EntityType>
+  <EntityType Name="Permissions">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Action" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" />
+  </EntityType>
+  <EntityType Name="PermissionsInRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RoleId" Type="int" />
+    <Property Name="PermissionId" Type="int" />
+  </EntityType>
+  <EntityType Name="PhotoGallery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SectionId" Type="int" />
+    <Property Name="DisplayName" Type="nvarchar" />
+    <Property Name="Path" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PhotoGalleryAttachments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="GalleryId" Type="int" Nullable="false" />
+    <Property Name="DownloadPath" Type="nvarchar" MaxLength="200" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" />
+    <Property Name="IsEditable" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SectionMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="varchar" MaxLength="1000" />
+    <Property Name="SectionType" Type="int" />
+  </EntityType>
+  <EntityType Name="SectorAttachments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SectorId" Type="int" Nullable="false" />
+    <Property Name="Caption" Type="nvarchar" MaxLength="200" />
+    <Property Name="DownloadPath" Type="nvarchar" MaxLength="200" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Sectors">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SectorName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="ParentSectorId" Type="int" />
+  </EntityType>
+  <EntityType Name="SelectionCriteria">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="SubCategoryId" Type="int" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="SubCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Code" Type="nvarchar" MaxLength="50" />
+    <Property Name="Name" Type="nvarchar" MaxLength="1000" />
+    <Property Name="CategoryId" Type="int" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TestimonialAttachments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TestimonialId" Type="int" Nullable="false" />
+    <Property Name="DownloadPath" Type="nvarchar" MaxLength="200" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Testimonials">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SectionId" Type="int" />
+    <Property Name="DisplayName" Type="nvarchar" />
+    <Property Name="Path" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TypeMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="LastLogin" Type="datetime" />
+    <Property Name="FailtedAttempts" Type="smallint" />
+    <Property Name="RoleId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Selection__SubCa__6EF57B66">
+    <End Role="SubCategory" Type="TechKritiCMSModel.Store.SubCategory" Multiplicity="0..1" />
+    <End Role="SelectionCriteria" Type="TechKritiCMSModel.Store.SelectionCriteria" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubCategory">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SelectionCriteria">
+        <PropertyRef Name="SubCategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SubCatego__Categ__6E01572D">
+    <End Role="Category" Type="TechKritiCMSModel.Store.Category" Multiplicity="0..1" />
+    <End Role="SubCategory" Type="TechKritiCMSModel.Store.SubCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SubCategory">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Downloads_SectionMaster">
+    <End Role="SectionMaster" Type="TechKritiCMSModel.Store.SectionMaster" Multiplicity="0..1" />
+    <End Role="Downloads" Type="TechKritiCMSModel.Store.Downloads" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SectionMaster">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Downloads">
+        <PropertyRef Name="SectionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhotoGallery_SectionMaster">
+    <End Role="SectionMaster" Type="TechKritiCMSModel.Store.SectionMaster" Multiplicity="0..1" />
+    <End Role="PhotoGallery" Type="TechKritiCMSModel.Store.PhotoGallery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SectionMaster">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PhotoGallery">
+        <PropertyRef Name="SectionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Testimonials_SectionMaster">
+    <End Role="SectionMaster" Type="TechKritiCMSModel.Store.SectionMaster" Multiplicity="0..1" />
+    <End Role="Testimonials" Type="TechKritiCMSModel.Store.Testimonials" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SectionMaster">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Testimonials">
+        <PropertyRef Name="SectionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MenuId_ForeignKeyMenus">
+    <End Role="Menus" Type="TechKritiCMSModel.Store.Menus" Multiplicity="1" />
+    <End Role="Pages" Type="TechKritiCMSModel.Store.Pages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Menus">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Pages">
+        <PropertyRef Name="MenuId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ParentMenuId_ForeignKey">
+    <End Role="Menus" Type="TechKritiCMSModel.Store.Menus" Multiplicity="0..1" />
+    <End Role="Menus1" Type="TechKritiCMSModel.Store.Menus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Menus">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Menus1">
+        <PropertyRef Name="ParentMenuId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PermissionId_ForeignKey">
+    <End Role="Permissions" Type="TechKritiCMSModel.Store.Permissions" Multiplicity="0..1" />
+    <End Role="PermissionsInRole" Type="TechKritiCMSModel.Store.PermissionsInRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Permissions">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PermissionsInRole">
+        <PropertyRef Name="PermissionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RoleId_ForeignKey">
+    <End Role="Roles" Type="TechKritiCMSModel.Store.Roles" Multiplicity="1" />
+    <End Role="Users" Type="TechKritiCMSModel.Store.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RoleId_ForeignKey_PermissionsInRole">
+    <End Role="Roles" Type="TechKritiCMSModel.Store.Roles" Multiplicity="0..1" />
+    <End Role="PermissionsInRole" Type="TechKritiCMSModel.Store.PermissionsInRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PermissionsInRole">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UserId_ForeignKeyUsers">
+    <End Role="Users" Type="TechKritiCMSModel.Store.Users" Multiplicity="1" />
+    <End Role="Pages" Type="TechKritiCMSModel.Store.Pages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Pages">
+        <PropertyRef Name="CreatedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

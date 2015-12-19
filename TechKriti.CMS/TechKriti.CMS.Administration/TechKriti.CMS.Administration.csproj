@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F99DB9C5-F775-459B-9653-15C9DC68E7B9}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TechKriti.CMS.Administration</RootNamespace>
+    <AssemblyName>TechKriti.CMS.Administration</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\packages\AjaxControlToolkit\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LogOn.aspx" />
+    <Content Include="tinymce_4.1.7\tinymce\changelog.txt" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\license.txt" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\advlist\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\anchor\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\autolink\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\autoresize\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\autosave\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\bbcode\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\charmap\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\code\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\colorpicker\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\contextmenu\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\directionality\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-cool.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-cry.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-embarassed.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-foot-in-mouth.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-frown.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-innocent.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-kiss.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-laughing.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-money-mouth.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-sealed.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-smile.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-surprised.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-tongue-out.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-undecided.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-wink.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\img\smiley-yell.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\emoticons\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\example\dialog.html" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\example\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\example_dependency\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\fullpage\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\fullscreen\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\hr\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\image\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\importcss\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\insertdatetime\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\layer\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\legacyoutput\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\link\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\lists\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\media\moxieplayer.swf" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\media\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\nonbreaking\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\noneditable\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\pagebreak\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\paste\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\preview\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\print\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\save\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\searchreplace\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\spellchecker\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\tabfocus\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\table\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\template\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\textcolor\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\textpattern\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\visualblocks\css\visualblocks.css" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\visualblocks\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\visualchars\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\plugins\wordcount\plugin.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\content.inline.min.css" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\content.min.css" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.svg" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.svg" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\img\anchor.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\img\loader.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\img\object.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\img\trans.gif" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\skin.ie7.min.css" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\skin.min.css" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\themes\modern\theme.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\tinymce.min.js" />
+    <Content Include="tinymce_4.1.7\tinymce\LICENSE.TXT" />
+    <Content Include="Web.config" />
+    <Content Include="Web\Views\CMS\AddMenu.aspx" />
+    <Content Include="Web\Views\CMS\AddPage.aspx" />
+    <Content Include="Web\Views\CMS\ManageMenu.aspx" />
+    <Content Include="Web\Views\CMS\ManagePages.aspx" />
+    <Content Include="Web\Views\CurrentOpenings\AddCurrentOpening.aspx" />
+    <Content Include="Web\Views\CurrentOpenings\ManageCurrentOpenings.aspx" />
+    <Content Include="Web\Views\DashBoard.aspx" />
+    <Content Include="Web\Utilities\CImage.aspx" />
+    <Content Include="Web\Views\Admin\AddRole.aspx" />
+    <Content Include="Web\Views\Admin\AddUser.aspx" />
+    <Content Include="Web\Views\Admin\ManageRoles.aspx" />
+    <Content Include="Web\Views\Admin\ManageUsers.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LogOn.aspx.cs">
+      <DependentUpon>LogOn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogOn.aspx.designer.cs">
+      <DependentUpon>LogOn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web\Views\Admin\AddRole.aspx.designer.cs">
+      <DependentUpon>AddRole.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Admin\AddUser.aspx.designer.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Admin\ManageRoles.aspx.designer.cs">
+      <DependentUpon>ManageRoles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Admin\ManageUsers.aspx.designer.cs">
+      <DependentUpon>ManageUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\CMS\AddMenu.aspx.cs">
+      <DependentUpon>AddMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\CMS\AddMenu.aspx.designer.cs">
+      <DependentUpon>AddMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\CMS\AddPage.aspx.cs">
+      <DependentUpon>AddPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\CMS\AddPage.aspx.designer.cs">
+      <DependentUpon>AddPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\CMS\ManageMenu.aspx.cs">
+      <DependentUpon>ManageMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\CMS\ManageMenu.aspx.designer.cs">
+      <DependentUpon>ManageMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\CMS\ManagePages.aspx.cs">
+      <DependentUpon>ManagePages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\CMS\ManagePages.aspx.designer.cs">
+      <DependentUpon>ManagePages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\CurrentOpenings\AddCurrentOpening.aspx.cs">
+      <DependentUpon>AddCurrentOpening.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\CurrentOpenings\AddCurrentOpening.aspx.designer.cs">
+      <DependentUpon>AddCurrentOpening.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\CurrentOpenings\ManageCurrentOpenings.aspx.cs">
+      <DependentUpon>ManageCurrentOpenings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\CurrentOpenings\ManageCurrentOpenings.aspx.designer.cs">
+      <DependentUpon>ManageCurrentOpenings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\DashBoard.aspx.cs">
+      <DependentUpon>DashBoard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\DashBoard.aspx.designer.cs">
+      <DependentUpon>DashBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Shared\Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Shared\Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Utilities\CImage.aspx.cs">
+      <DependentUpon>CImage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Utilities\CImage.aspx.designer.cs">
+      <DependentUpon>CImage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Admin\AddRole.aspx.cs">
+      <DependentUpon>AddRole.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Admin\AddUser.aspx.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Admin\ManageRoles.aspx.cs">
+      <DependentUpon>ManageRoles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Admin\ManageUsers.aspx.cs">
+      <DependentUpon>ManageUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Downloads\AddDownload.aspx.cs">
+      <DependentUpon>AddDownload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Downloads\AddDownload.aspx.designer.cs">
+      <DependentUpon>AddDownload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Downloads\ManageDownloads.aspx.cs">
+      <DependentUpon>ManageDownloads.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Downloads\ManageDownloads.aspx.designer.cs">
+      <DependentUpon>ManageDownloads.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\News\AddNews.aspx.cs">
+      <DependentUpon>AddNews.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\News\AddNews.aspx.designer.cs">
+      <DependentUpon>AddNews.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\News\ManageNews.aspx.cs">
+      <DependentUpon>ManageNews.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\News\ManageNews.aspx.designer.cs">
+      <DependentUpon>ManageNews.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\PhotoGallery\AddPhotoGallery.aspx.cs">
+      <DependentUpon>AddPhotoGallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\PhotoGallery\AddPhotoGallery.aspx.designer.cs">
+      <DependentUpon>AddPhotoGallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\PhotoGallery\ManagePhotoGallery.aspx.cs">
+      <DependentUpon>ManagePhotoGallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\PhotoGallery\ManagePhotoGallery.aspx.designer.cs">
+      <DependentUpon>ManagePhotoGallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Qualification\AddQualification.aspx.cs">
+      <DependentUpon>AddQualification.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Qualification\AddQualification.aspx.designer.cs">
+      <DependentUpon>AddQualification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Qualification\ManageQualifications.aspx.cs">
+      <DependentUpon>ManageQualifications.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Qualification\ManageQualifications.aspx.designer.cs">
+      <DependentUpon>ManageQualifications.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Sectors\AddSector.aspx.cs">
+      <DependentUpon>AddSector.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Sectors\AddSector.aspx.designer.cs">
+      <DependentUpon>AddSector.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Sectors\ManageSectors.aspx.cs">
+      <DependentUpon>ManageSectors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Sectors\ManageSectors.aspx.designer.cs">
+      <DependentUpon>ManageSectors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Testimonials\AddTestimonial.aspx.cs">
+      <DependentUpon>AddTestimonial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Testimonials\AddTestimonial.aspx.designer.cs">
+      <DependentUpon>AddTestimonial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web\Views\Testimonials\ManageTestimonials.aspx.cs">
+      <DependentUpon>ManageTestimonials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Views\Testimonials\ManageTestimonials.aspx.designer.cs">
+      <DependentUpon>ManageTestimonials.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\langs\readme.md" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.eot" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.ttf" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.woff" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.eot" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.ttf" />
+    <Content Include="tinymce_4.1.7\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.woff" />
+    <None Include="Properties\PublishProfiles\Techkriti %28Admin%29.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="Web\Views\Downloads\AddDownload.aspx" />
+    <Content Include="Web\Views\Downloads\ManageDownloads.aspx" />
+    <Content Include="Web\Views\News\AddNews.aspx" />
+    <Content Include="Web\Views\News\ManageNews.aspx" />
+    <Content Include="Web\Views\PhotoGallery\AddPhotoGallery.aspx" />
+    <Content Include="Web\Views\PhotoGallery\ManagePhotoGallery.aspx" />
+    <Content Include="Web\Views\Qualification\AddQualification.aspx" />
+    <Content Include="Web\Views\Qualification\ManageQualifications.aspx" />
+    <Content Include="Web\Views\Sectors\AddSector.aspx" />
+    <Content Include="Web\Views\Sectors\ManageSectors.aspx" />
+    <Content Include="Web\Views\Testimonials\AddTestimonial.aspx" />
+    <Content Include="Web\Views\Testimonials\ManageTestimonials.aspx" />
+    <Content Include="Web\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web\Shared\Site.Master" />
+    <None Include="Web\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Common\TechKriti.CommonDataInterfaces.csproj">
+      <Project>{2e0478e4-cf58-44cf-8d0a-288d5c8a577b}</Project>
+      <Name>TechKriti.CommonDataInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CustomControls\TechKriti.Custom.Controls.csproj">
+      <Project>{853d8d89-5b86-4859-b44a-251e22711d79}</Project>
+      <Name>TechKriti.Custom.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataContracts\DataContracts.csproj">
+      <Project>{805aa859-90dc-4efd-8f51-9ca4e00ee54d}</Project>
+      <Name>DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceImplementation\ServiceImplementation.csproj">
+      <Project>{15b3e0d2-6217-493a-a690-158c497f5318}</Project>
+      <Name>ServiceImplementation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Techkriti.Common\Techkriti.Common.Client.csproj">
+      <Project>{770f1ac6-f3c8-493f-b151-f657c3a44d85}</Project>
+      <Name>Techkriti.Common.Client</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:60177/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

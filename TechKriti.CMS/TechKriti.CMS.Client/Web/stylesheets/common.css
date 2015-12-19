@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ajax__calendar_container {
+	z-index:100000;
+	}
+.ajax__calendar_container {
+	font-size:12px !important;
+	width:210px !important;
+	height:220px !important;
+	border:3px solid #666 !important;
+	}
+.ajax__calendar_container TABLE {font-size:12px;}
+.ajax__calendar_body { width:200px !important;}
+.ajax__calendar_days, .ajax__calendar_months, .ajax__calendar_years { width:200px !important;}
+.ajax__calendar_dayname, .ajax__calendar_day {width:25px !important; height:25px !important; font-size:12px !important;}
+.ajax__calendar_footer  {padding-top:15px !important;}
